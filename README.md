@@ -3,8 +3,11 @@ Para este proyecto se debe iniciar desde el index.php (no el que esta en la carp
 Para que usted pueda Entrar y loguearse a la página se ha creado un correo siendo el siguiente:
 
 Gmail= test1234proy@gmail.com
+
 Contraseña del correo= Leche12345
+
 Contraseña del login= 12344321
+
 #Lista de preguntas hábiles para el chat bot
 ¿qué es amigo tendero?
 ¿cómo funciona amigo tendero?
